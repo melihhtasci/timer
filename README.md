@@ -1,2 +1,10 @@
-# timer
-Basic timer app developed with React Native
+# Timer
+
+Basic a timer app. You can see that how it looks in the pictures below
+
+<br />
+<img src="https://github.com/melihhtasci/timer\doc_images\ss-1.jpeg?raw=true" width="300" />
+<br />
+<img src="https://github.com/melihhtasci/timer\doc_images\ss-1.jpeg?raw=true"  width="300" />
+<br />
+<img src="https://github.com/melihhtasci/timer\doc_images\ss-1.jpeg?raw=true" width="300" />
